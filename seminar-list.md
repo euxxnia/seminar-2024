@@ -134,3 +134,4 @@
 | 이호석 | hslee0324@snu.ac.kr |         |         |         |
 | 전용재 | 050609j@gmail.com |         |         |         |
 
+| 최유진 | eugene@snu.ac.kr | frontend | design | iOS |
